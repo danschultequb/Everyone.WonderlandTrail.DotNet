@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Everyone.WonderlandTrail.DotNet", "Everyone.WonderlandTrail.DotNet\Everyone.WonderlandTrail.DotNet.csproj", "{010D19E5-F3A6-4E54-80F4-AEEEEB008603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Everyone.WonderlandTrail.DotNet.Tests", "Everyone.WonderlandTrail.DotNet.Tests\Everyone.WonderlandTrail.DotNet.Tests.csproj", "{C406604A-487B-4C0F-ADC3-D5B0D091118B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010D19E5-F3A6-4E54-80F4-AEEEEB008603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010D19E5-F3A6-4E54-80F4-AEEEEB008603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010D19E5-F3A6-4E54-80F4-AEEEEB008603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010D19E5-F3A6-4E54-80F4-AEEEEB008603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C406604A-487B-4C0F-ADC3-D5B0D091118B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C406604A-487B-4C0F-ADC3-D5B0D091118B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C406604A-487B-4C0F-ADC3-D5B0D091118B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C406604A-487B-4C0F-ADC3-D5B0D091118B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82C6153-7760-4169-BF6C-5F93751EDBE2}
+	EndGlobalSection
+EndGlobal
